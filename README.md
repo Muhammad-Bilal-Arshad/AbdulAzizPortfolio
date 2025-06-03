@@ -1,12 +1,18 @@
-# React + Vite
+# 🎬 GTA 6 Themed Portfolio for Video Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **GTA 6–inspired video editor portfolio**, a dynamic, high-impact showcase crafted using **React** and **Vite**. This portfolio is designed to capture the thrill and cinematic essence of Grand Theft Auto 6, perfectly aligning with the creativity and energy of a professional video editor.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎮 **GTA 6 Look & Feel** — Unique styling, vibrant visuals, and immersive UX inspired by the upcoming GTA 6 game.
+- 🎥 **Portfolio Showcase** — Highlight work through featured reels, cinematic effects, and custom video embeds.
+- 🖥️ **Responsive Design** — Smooth experience across desktop, tablet, and mobile.
+- ⚡ **Fast & Modern Stack** — Built with Vite for ultra-fast builds and React for a component-driven architecture.
+- 🧠 **Clean Codebase** — Scalable project structure with ESLint integration for maintainability.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** — Frontend UI framework.
+- **Vite** — Next-generation frontend tooling for fast development and optimized builds.
+- **ESLint** — Linting for cleaner and more consistent code.
+
